@@ -975,19 +975,11 @@ unification_casus_belli = {
 			NOT = { has_country_modifier = neutrality_modifier }
 		}
 		OR = {
-			NOT = {
-				any_country = {
-					exists = yes
+			cultural_union = { exists = no }
+			capital_scope = {
+				any_core = {	# FFA removes GER cores in 11101GER event
 					this_culture_union = this_union
 					is_cultural_union = yes
-				}
-			}
-			THIS = {
-				capital_scope = {
-					any_core = {	# FFA removes GER cores in 11101GER event
-						this_culture_union = this_union
-						is_cultural_union = yes
-					}
 				}
 			}
 		}
@@ -1127,19 +1119,11 @@ unification_annex_casus_belli = {
 			NOT = { has_country_modifier = neutrality_modifier }
 		}
 		OR = {
-			NOT = {
-				any_country = {
-					exists = yes
+			cultural_union = { exists = no }
+			capital_scope = {
+				any_core = {	# FFA removes GER cores in 11101GER event
 					this_culture_union = this_union
 					is_cultural_union = yes
-				}
-			}
-			THIS = {
-				capital_scope = {
-					any_core = {	# FFA removes GER cores in 11101GER event
-						this_culture_union = this_union
-						is_cultural_union = yes
-					}
 				}
 			}
 		}
