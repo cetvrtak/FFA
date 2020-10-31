@@ -287,151 +287,151 @@
 	aristocrats = {
 		culture = north_german
 		religion = protestant
-		size = 3862.5
+		size = 2317
 	}
 
 	bureaucrats = {
 		culture = north_german
 		religion = protestant
-		size = 3296.0
+		size = 1978
 	}
 
 	officers = {
 		culture = north_german
 		religion = protestant
-		size = 772.5
+		size = 463
 	}
 
 	capitalists = {
 		culture = north_german
 		religion = protestant
-		size = 800
+		size = 540
 	}
 
 	clergymen = {
 		culture = north_german
 		religion = protestant
-		size = 1802.5
+		size = 1081
 	}
 
 	clerks = {
 		culture = north_german
 		religion = protestant
-		size = 128.75
+		size = 775
 	}
 
 	craftsmen = {
 		culture = north_german
 		religion = protestant
-		size = 30605.0
+		size = 18363
 	}
 
 	artisans = {
 		culture = north_german
 		religion = protestant
-		size = 17381.25
+		size = 10429
 	}
 
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size = 7090.0
+		size = 4254
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 124813.4
+		size = 74888
 	}
 
 	clergymen = {
 		culture = north_german
 		religion = catholic
-		size = 180.25
+		size = 108
 	}
 
 	artisans = {
 		culture = north_german
 		religion = catholic
-		size = 927.0
+		size = 556
 	}
 
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size = 1030.0
+		size = 618
 	}
 
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 16402.75
+		size = 9841
 	}
 
 	clergymen = {
 		culture = north_german
 		religion = jewish
-		size = 25.75
+		size = 15
 	}
 
 	clerks = {
 		culture = north_german
 		religion = jewish
-		size = 25.75
+		size = 15
 	}
 
 	craftsmen = {
 		culture = north_german
 		religion = jewish
-		size = 154.5
+		size = 92
 	}
 
 	artisans = {
 		culture = north_german
 		religion = jewish
-		size = 1364.75
+		size = 818
 	}
 
 	soldiers = {
 		culture = north_german
 		religion = jewish
-		size = 25.75
+		size = 15
 	}
 
 	farmers = {
 		culture = north_german
 		religion = jewish
-		size = 463.5
+		size = 278
 	}
 
 	clergymen = {
 		culture = polish
 		religion = catholic
-		size = 360.5
+		size = 216
 	}
 
 	artisans = {
 		culture = polish
 		religion = catholic
-		size = 1802.5
+		size = 1081.2
 	}
 
 	craftsmen = {
 		culture = polish
 		religion = catholic
-		size = 4000.0
+		size = 2400.0
 	}
 
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size = 1030.0
+		size = 618
 	}
 
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 28857.0
+		size = 17314
 	}
 }
 #Liegnitz (484000/121000 POPS)

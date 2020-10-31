@@ -4684,64 +4684,64 @@
 	clergymen = {
 		culture = south_german
 		religion = protestant
-		size = 106.0
+		size = 74
 	}
 
 	artisans = {
 		culture = south_german
 		religion = protestant
-		size = 583.0
+		size = 408
 	}
 
 	soldiers = {
 		culture = south_german
 		religion = protestant
-		size= 3000
+		size= 2100
 
 	}
 
 	soldiers = {
 		culture = south_german
 		religion = protestant
-		size= 1240
+		size= 868
 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = protestant
-		size = 6731.0
+		size = 4712
 	}
 
 	aristocrats = {
 		culture = south_german
 		religion = catholic
-		size = 954.0
+		size = 668
 	}
 
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size = 980.5
+		size = 686
 	}
 
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 4823.0
+		size = 3376
 	}
 
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 954
+		size= 668
 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 88775.0
+		size = 62143
 	}
 }
 #under the rule of Prussia in 1836
@@ -5145,32 +5145,32 @@
 	aristocrats = {
 		culture = south_german
 		religion = catholic
-		size = 424.0
+		size = 	254
 	}
 
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size = 450.5
+		size = 270
 	}
 
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 2120.0
+		size = 1272
 	}
 
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 1477
+		size= 886
 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 38988.5
+		size = 23393
 	}
 }
 #Ingolstadt (164000/41000 POPS)
@@ -5211,32 +5211,32 @@
 	aristocrats = {
 		culture = south_german
 		religion = catholic
-		size = 689.0
+		size = 345
 	}
 
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size = 662.5
+		size = 331
 	}
 
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 5300.0
+		size = 2650
 	}
 
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 2060
+		size= 1030
 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 57008.5
+		size = 28504
 	}
 }
 #Silesia Region (200000) #see Czechia.txt and Poland.txt for balance of region
