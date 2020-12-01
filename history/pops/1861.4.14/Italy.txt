@@ -5,142 +5,142 @@
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 4120.0
+		size = 3296
 	}
 
 	bureaucrats = {
 		culture = north_italian
 		religion = catholic
-		size = 875.5
+		size = 700
 	}
 
 	officers = {
 		culture = north_italian
 		religion = catholic
-		size = 437.75
+		size = 350
 	}
 
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 2394.75
+		size = 1915
 	}
 
 	clerks = {
 		culture = north_italian
 		religion = catholic
-		size = 1100
+		size = 880
 	}
 
 	craftsmen = {
 		culture = north_italian
 		religion = catholic
-		size = 22000
+		size = 17600
 	}
 	
 	capitalists = {
 		culture = north_italian
 		religion = catholic
-		size = 1200
+		size = 960
 	}
 	
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 10000.0
+		size = 8000
 	}
 	
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 10000.0
+		size = 8000
 	}
 	
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 3690.0
+		size = 2952
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = north_italian
-		religion = catholic
-		size= 3000
+		size= 2400
 
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size= 3000
+		size= 2400
 
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size= 3000
+		size= 2400
 
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size= 3000
+		size= 2400
 
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size= 3000
+		size= 2400
 
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size= 3000
+		size= 2400
 
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size= 3000
+		size= 2400
 
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size= 1150
+		size= 2400
+
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size= 920
 
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 155687.0
+		size = 124550
 	}
 
 	clergymen = {
 		culture = north_italian
 		religion = jewish
-		size = 10.3
+		size = 8
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = jewish
-		size = 504.7
+		size = 403
 	}
 }
 #Aosta (156000/39000 POPS)
